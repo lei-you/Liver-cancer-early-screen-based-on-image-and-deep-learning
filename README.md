@@ -14,3 +14,8 @@ Our paper is availble at https://www.sciencedirect.com/science/article/abs/pii/S
 <img src="https://img.shields.io/badge/-Tensorflow-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenCV-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Keras-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CycleGAN-3776ab?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-StyleLearning-EF5350?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-data clearn and preprocessing-EE7600?&style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-Generative AI-0097A7?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
