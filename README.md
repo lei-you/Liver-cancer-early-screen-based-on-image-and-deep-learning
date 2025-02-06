@@ -9,3 +9,8 @@ The major liver disease screenning methods include ultrosound, CT and MR. Due to
 ![hcc](https://github.com/user-attachments/assets/569c6653-029a-4aba-9b88-d4803aed58ef)
 
 Our paper is availble at https://www.sciencedirect.com/science/article/abs/pii/S1746809424003380
+
+## Tools
+<img src="https://img.shields.io/badge/-Tensorflow-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenCV-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Keras-000080?&style=for-the-badge&logoColor=white" />
