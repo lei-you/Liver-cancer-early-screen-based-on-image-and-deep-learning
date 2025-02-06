@@ -1,6 +1,6 @@
 # Liver-cancer-early-screen-based-on-image-and-deep-learning
 
-##Objective
+## Objective
 In this project, we want to utilize deep learning-based algorithms to predict the liver cancer(HCC) at the early stage.
 
 ## Details
