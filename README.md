@@ -9,7 +9,8 @@ The major liver disease screenning methods include ultrosound, CT and MR. Due to
 ![hcc](https://github.com/user-attachments/assets/569c6653-029a-4aba-9b88-d4803aed58ef)
 ![hcc2](https://github.com/user-attachments/assets/6cffcf85-9bc3-4865-802d-940017af54e1)
 
-
+## Publications:
+You, L., Wang, H., Matta, E. J., Surabhi, V., & Zhou, X. (2024). SeRL: Style-embedding representation learning for unsupervised CT images synthesis from unpaired MR images. Biomedical Signal Processing and Control, 94, 106280.
 Our paper is availble at https://www.sciencedirect.com/science/article/abs/pii/S1746809424003380
 
 ## Tools
